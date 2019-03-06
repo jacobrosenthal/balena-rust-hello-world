@@ -1,7 +1,0 @@
-[package]
-name = "hello"
-version = "0.1.2"
-authors = ["Zrzka <robert@resin.io>"]
-
-[dependencies]
-clap = "2"
